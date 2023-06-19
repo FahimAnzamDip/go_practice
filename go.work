@@ -1,0 +1,6 @@
+go 1.20
+
+use ./01_hello
+use ./02_variables
+use ./03_comma_ok
+use ./04_time
