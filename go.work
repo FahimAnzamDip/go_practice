@@ -4,3 +4,14 @@ use ./01_hello
 use ./02_variables
 use ./03_comma_ok
 use ./04_time
+use ./05_pointer
+use ./06_slices
+use ./07_maps
+use ./08_struct
+use ./09_if_else
+use ./10_loops
+use ./11_functions
+use ./12_web_requests
+use ./13_go_json
+use ./14_consume_json
+use ./15_routing
