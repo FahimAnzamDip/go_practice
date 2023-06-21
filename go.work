@@ -15,3 +15,4 @@ use ./12_web_requests
 use ./13_go_json
 use ./14_consume_json
 use ./15_routing
+use ./16_fake_api
